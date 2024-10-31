@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+#MacOS files
+.DS_store
+# to add a folder
+test/
